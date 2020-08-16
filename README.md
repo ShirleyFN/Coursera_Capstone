@@ -26,4 +26,4 @@ To compare school performance, the 2018-2019 Final Key Stage 2 and Final Key Sta
 Crime in England and Walse: Police Force Area data tables Year ending December 2019 will be used. https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables Similar data wrangling to convert police force area into county level is required.
 
 ### Chinese restaurant
-Last but truly not least, availability of Chinese restaurant is a cure to home sick and critical to newly immigrated Hong Kongers' mental wellness. Foursquare data will be used to analyse availability of Chinese restaurant on the county level.
+Last but truly not least, an effortless Chinese meal can be an effective cure of homesickness, so availaility of Chinese restaurant is critical to newly immigrated Hong Kongers' mental wellness. Foursquare data will be used to analyse availability of Chinese restaurant on the county level.
